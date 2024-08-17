@@ -1,0 +1,19 @@
+emp_id,emp_name,dept_id,dept_name,manager_id,manager_name,job_title,salary,location
+2,Bob_Johnson,102,IT,202,John Doe,Developer,80000,San Francisco
+3,Carol_White,103,Sales,203,Emily Clark,Sales Manager,75000,Chicago
+4,David_Lee,101,HR,201,vaih,Recruiter,65000,New York
+5,Eva_Green,102,IT,202,John Doe,System Analyst,70000,San Francisco
+6,Frank_Hall,103,Sales,203,Emily Clark,Sales Rep,72000,Chicago
+7,Grace_Adams,104,Marketing,204,Lisa Brown,Marketing Lead,72000,Boston
+8,Henry_King,104,Marketing,204,Lisa Brown,Marketing Exec,71000,Boston
+9,Irene_Ford,105,Finance,205,Tom Harris,Financial Analyst,68000,Los Angeles
+10,Jack_Lewis,106,Operations,206,Nancy Moore,Operations Manager,73000,Seattle
+11,susovan,101,HR,201,Jerry,Accountant,90000,europe
+12,jim,102,IT,202,VAN,BUSINESS ANALYST,800000,thailand
+13,josh,109,marketing,204,work,Sales Manager,20000,turkey
+14,kim,103,sales,203,horo,Sales Rep,30000,ireland
+15,kendall,106,Operations,206,proxy,Marketing Exec,33025552,dubai
+16,mac,105,finance,205,battery,Accountant,22522,raipur
+17,poops,102,IT,202,queen,Marketing Lead,8245215,pondycherry
+18,kiylie,103,sales,203,king,BUSINESS ANALYST,258965,nagaland
+19,tyalor,104,marketing,204,badboi,Developer,4799236,scotland
